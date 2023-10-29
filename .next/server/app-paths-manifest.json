@@ -1,0 +1,10 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(site)/page": "app/(site)/page.js",
+  "/conversation/page": "app/conversation/page.js",
+  "/users/page": "app/users/page.js",
+  "/api/conversation/route": "app/api/conversation/route.js",
+  "/conversation/[conversationId]/page": "app/conversation/[conversationId]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/conversation/[conversationId]/seen/route": "app/api/conversation/[conversationId]/seen/route.js"
+}
